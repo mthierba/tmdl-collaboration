@@ -4,7 +4,6 @@ culture en-US
 			{
 			  "Version": "3.1.0",
 			  "Language": "en-US",
-			  "DynamicImprovement": "HighConfidence",
 			  "Entities": {
 			    "calendar": {
 			      "Definition": {

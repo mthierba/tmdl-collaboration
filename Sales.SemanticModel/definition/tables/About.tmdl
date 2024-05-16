@@ -1,5 +1,3 @@
-/// Table with information about the model.
-/// Key/Value representation, with properties like: last refresh; model creator;...
 table About
 	lineageTag: 68907830-e8ac-4c12-98d9-f70711413080
 
