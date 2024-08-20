@@ -1,4 +1,4 @@
-culture pt-PT
+cultureInfo pt-PT
 	translations
 		model Model
 			table Sales

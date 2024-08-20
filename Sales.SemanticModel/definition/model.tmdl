@@ -35,9 +35,11 @@ ref table 'Parameter - Dimension'
 ref table 'Parameter - Measure'
 ref table 'Time Intelligence'
 
-ref culture en-US
-ref culture pt-PT
-
 ref role 'Stores Cluster 1'
 ref role 'Stores Cluster 2'
+
+ref perspective Sales
+
+ref cultureInfo en-US
+ref cultureInfo pt-PT
 
