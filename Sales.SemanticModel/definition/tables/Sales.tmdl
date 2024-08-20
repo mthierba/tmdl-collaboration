@@ -27,6 +27,11 @@ table Sales
 		formatString: $ #,##0
 		lineageTag: d2724187-f1de-4a90-84bc-fc96aab3194b
 
+	/// Clone of [Sales Amount]
+	measure Measure1 = [Sales Amount]
+		displayFolder: Demo
+		lineageTag: ed442a61-e02f-45d1-bff1-f9370213102e
+
 	/// Sales Amount Last Year considering a full month
 	/// 
 	measure 'Sales Amount (LY)' = CALCULATE([Sales Amount], SAMEPERIODLASTYEAR('Calendar'[Date]))
